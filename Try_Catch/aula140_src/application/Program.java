@@ -1,5 +1,5 @@
 
-//	--->Seção-15 Aula 139-140 - Estrutura try-catch 	--->07/06/2021.
+//	--->Seção-15 Aula 139-140 - Estrutura try-catch  --->07/06/2021.
 
 package application;
 
@@ -25,7 +25,6 @@ public class Program {
 		method1();
 		
 		System.out.println(" End of Program");
-		
 		}
 	
 		public static void method1() {
@@ -56,6 +55,7 @@ public class Program {
 			
 			System.out.println("***METHOD 2 END***");
 		
+			
 		System.out.println("        ---> FIM <--- ");
 		System.out.println("------------------------------------------------------------------------");
 	}
